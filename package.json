@@ -1,0 +1,18 @@
+{
+    "name": "procesoslog",
+    "version": "1.0.0",
+    "description": "Software para alertar sobre los reinicios no programados de un servidor",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc && node ./dist/index.js",
+        "test ": "echo \"Error: no test specified \" && exit 1"
+    },
+    "author": "Yerzin Perez",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "mssql": "^7.1.3",
+        "node-telegram-bot-api": "^0.53.0",
+        "typescript": "^4.3.5"
+    }
+}
