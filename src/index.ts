@@ -5,6 +5,10 @@ import { SendNotificationController } from "./controllers/sendNotificationContro
 
 /**
  * Main class
+ * @author Yerzin Perez
+ * @version 1.0.0
+ * @see SendNotificationController
+ * @see ConsultProcessLogController
  */
 class Main {
   //Attributes
@@ -106,4 +110,4 @@ let main: Main = new Main();
 //Every 5min executing the program (milliseconds)
 setInterval(() => {
   main.init();
-}, 5000);
+}, 300000);

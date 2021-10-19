@@ -1,5 +1,7 @@
 /**
  * Class to get ID users form file text
+ * @author Yerzin Perez
+ * @version 1.0.0
  */
 export class SendNotificationModel {
   //Attributes

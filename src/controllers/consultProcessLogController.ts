@@ -3,6 +3,9 @@ import { ConsultProcessLogModel } from './../models/consultProcessLogModel';
 
 /**
  * Class to get the process log from model
+ * @author Yerzin Perez
+ * @version 1.0.0
+ * @see ConsultProcessLogModel
  */
 export class ConsultProcessLogController{
   private date: Date;

@@ -1,5 +1,5 @@
 {
-    "name": "procesoslog",
+    "name": "procesoslogzonal",
     "version": "1.0.0",
     "description": "Software para alertar sobre los reinicios no programados de un servidor",
     "main": "index.js",

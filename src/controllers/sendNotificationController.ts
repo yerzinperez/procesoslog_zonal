@@ -1,5 +1,12 @@
 import { SendNotificationModel } from '../models/sendNotificationModel';
 
+/**
+ * Class to send notification by telegram 
+ * @author Yerzin Perez
+ * @version 1.0.0
+ * @see SendNotificationModel
+ */
+
 export class SendNotificationController {
   //Attributes
   private sendNotificationModel: SendNotificationModel = new SendNotificationModel();

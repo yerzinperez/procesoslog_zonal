@@ -2,6 +2,8 @@ import { Connection } from '../config/connection';
 
 /**
  * Class to get the process log from database
+ * @author Yerzin Perez
+ * @version 1.0.0
  */
 export class ConsultProcessLogModel extends Connection {
 

@@ -1,6 +1,8 @@
 
 /**
  * Class to set connection to database
+ * @author Yerzin Perez
+ * @version 1.0.0
  */
 export class Connection {
     //Attributes
